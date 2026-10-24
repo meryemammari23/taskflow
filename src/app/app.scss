@@ -1,0 +1,8 @@
+nav {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  background: #6c3bea;
+  a { color: white; text-decoration: none; }
+  a.active { font-weight: bold; text-decoration: underline; }
+}
